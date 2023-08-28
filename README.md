@@ -1,6 +1,6 @@
 # FlutterWidget
-My Collection of Widget
-Will be updated for new custom widget
+My Collection of Widget.
+Will be update for new custom widget
 
 sensorCard
 
